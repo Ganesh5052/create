@@ -1,0 +1,13 @@
+.myclass{
+    background-color: wheat;
+    padding: 30px;
+    text-justify: auto;
+    display: flex;
+}
+.myclass button{
+    margin-top: 3px;
+}
+.myclass button:hover{
+    background-color: greenyellow;
+    color: white;
+}
